@@ -12,6 +12,20 @@ Me chamo Diego, tenho 16 anos e sou aluno da EECIT de Esperança, estou cursando
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a> 
+         <a href="https://discordapp.com/users/1330709098462707785">
+        <img 
+            alt="Discord" 
+            title="meu discord" 
+            src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+        />
+    </a> 
+    <a href="https://www.instagram.com/diegoqqw4/">
+        <img 
+            alt="instagram" 
+            title="meu instagram" 
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+        />
+    </a> 
     <a href="https://github.com/Diegoqqw?tab=repositories">
         <img 
             alt="Total de estrelas" 
@@ -64,8 +78,5 @@ Me chamo Diego, tenho 16 anos e sou aluno da EECIT de Esperança, estou cursando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <br/>
 <br/>
- 
-
