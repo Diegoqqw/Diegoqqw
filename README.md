@@ -1,5 +1,3 @@
-## Diego Morais
-
 # 🖥️ Diego Morais
 
 **Cursando Informatica**
