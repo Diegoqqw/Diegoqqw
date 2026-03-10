@@ -2,7 +2,7 @@
 
 **Cursando Informatica**
 
-*Me chamo Diego, tenho 16 anos e sou aluno da EECIT de Esperança, estou cursando técnico em informática. Atualmente, estou estudando para o enem e a linguagem Python. Gosto muito da tecnologia e compartilho um pouco do meu aprendizado através do meu perfil no linkedin "[Diego Morais](https://www.linkedin.com/in/diego-morais-973472341/)", onde publico alguns de meus códigos, e compartilho um pouco da minha vida através do instagram, com o perfil chamado "[diegoqqw4](https://www.instagram.com/diegoqqw4/)".*
+Me chamo Diego, tenho 16 anos e sou aluno da EECIT de Esperança, estou cursando técnico em informática. Atualmente, estou estudando para o enem e a linguagem Python. Gosto muito da tecnologia e compartilho um pouco do meu aprendizado através do meu perfil no linkedin "[Diego Morais](https://www.linkedin.com/in/diego-morais-973472341/)", onde publico alguns de meus códigos, e compartilho um pouco da minha vida através do instagram, com o perfil chamado "[diegoqqw4](https://www.instagram.com/diegoqqw4/)".
 
 <p align="left">
     <a href="https://www.linkedin.com/in/diego-morais-973472341/">
